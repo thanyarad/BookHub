@@ -85,6 +85,18 @@ loginphp/
 
 4. **View Cart**:
     - Check the books added to your cart and proceed to checkout.
+  
+## Screenshot
+ ![Screenshot (36)](https://github.com/thanyarad/BookHub/assets/159054147/13218a29-bfdc-4077-bfb3-5aca6b64ae66)
+ ![Screenshot (37)](https://github.com/thanyarad/BookHub/assets/159054147/b2f5d1f4-f385-4713-820a-fe752e0dfb56)
+ ![Screenshot (38)](https://github.com/thanyarad/BookHub/assets/159054147/801e678c-d45a-4dfc-bdc7-734f12b1f867)
+ ![Screenshot (39)](https://github.com/thanyarad/BookHub/assets/159054147/d85afd67-ed31-44a6-8326-65182b9a9c3b)
+ ![Screenshot (40)](https://github.com/thanyarad/BookHub/assets/159054147/52e734e8-7bce-4993-b796-6e5232214c18)
+ ![Screenshot (41)](https://github.com/thanyarad/BookHub/assets/159054147/349cdd2f-8662-42fe-bc13-8c07f33a2c43)
+ ![Screenshot (42)](https://github.com/thanyarad/BookHub/assets/159054147/0e49dcf9-8356-43bf-87f1-f695f89ad496)
+ ![Screenshot (43)](https://github.com/thanyarad/BookHub/assets/159054147/0f162773-ab42-44c9-a3a1-46a8ddc3798d)
+ ![Screenshot (44)](https://github.com/thanyarad/BookHub/assets/159054147/6d1a4df4-6d73-4e25-9dae-4684d1de7ce8)
+ ![Screenshot (45)](https://github.com/thanyarad/BookHub/assets/159054147/2a662659-140f-42f0-b092-22017ded68a0)
 
 ## Contributing
 
